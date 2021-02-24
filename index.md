@@ -109,8 +109,8 @@ sections:
         style: primary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: |
-      ![](https://fastforwardstorieswebsite.wistia.com/medias/7fjriuk4d0)
+    content: >
+      ![](https://fastforwardstorieswebsite.wistia.com/medias/7fjriuk4d0)![](https://fastforwardstorieswebsite.wistia.com/medias/7fjriuk4d0)
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
