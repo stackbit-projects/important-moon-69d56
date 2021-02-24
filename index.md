@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Branded-for-you Explainer Videos.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Arm your business with over a hundred personalized videos to keep your
+      customers ahead of the curve.
     actions:
       - label: Learn More
         url: /features
