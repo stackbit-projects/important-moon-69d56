@@ -110,4 +110,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: fastforwardstories.com
+domain: 'https://fastforwardstories.com'
