@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: Book a Demo
         url: '#'
         style: link
         has_icon: false
