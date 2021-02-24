@@ -32,7 +32,8 @@ footer:
       image: images/FFS_Logo_2015_Horizontal-no-tag-line-shoved-right.png
       image_url: /
       image_alt: Footer logo
-      content: Stackbit theme demo
+      content: |
+        Fast Forward Stories, Inc.
     - type: footer_nav
       title: Company
       nav_links:
