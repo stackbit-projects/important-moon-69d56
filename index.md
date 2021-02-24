@@ -14,7 +14,7 @@ sections:
         url: /features
         style: primary
       - label: Book a Demo
-        url: '#'
+        url: /features
         style: link
         has_icon: false
         icon: arrow-left
