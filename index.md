@@ -107,13 +107,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >
-      ![](https://fastforwardstorieswebsite.wistia.com/medias/7fjriuk4d0)![](https://fastforwardstorieswebsite.wistia.com/medias/7fjriuk4d0)
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
