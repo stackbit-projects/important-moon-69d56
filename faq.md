@@ -10,9 +10,6 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
-
-
 ---
 
 {% include accordion.html %}
