@@ -12,6 +12,7 @@ layout: page
 ---
 ## Lorem ipsum
 
+
 {% include accordion.html %}
 ---
 accordion: 
