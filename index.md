@@ -75,7 +75,7 @@ sections:
       - author: Naomi Westgard
         avatar: images/index.jpg
         avatar_alt: Eric Widget's photo
-        content: >
+        content: >-
           Fast Forward Stories is by far one of the best providers of content
           that I have incorporated in the show. The value that the videos add is
           tremendous and I thank you for that.
@@ -100,6 +100,12 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    reviews: []
+    type: section_reviews
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
