@@ -65,10 +65,7 @@ number given on our website:
 
 *   Express any concern you have about our use of your data.
 
-
-
 #### **Security**
-
 
 We
 take precautions to protect your information. When you submit sensitive
