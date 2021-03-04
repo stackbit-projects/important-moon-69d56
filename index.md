@@ -67,6 +67,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+    title: 'Content is king, and video is the crown jewel.'
   - section_id: reviews
     type: section_reviews
     background: white
