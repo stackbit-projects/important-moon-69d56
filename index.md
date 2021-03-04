@@ -24,9 +24,6 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     features:
       - title: The Best Feature of Your Services
         image: images/The Ultimate Guide to Video Marketing-3.webp
