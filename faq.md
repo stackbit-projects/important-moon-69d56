@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Frequently Asked Questions
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
