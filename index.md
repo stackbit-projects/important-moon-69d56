@@ -31,7 +31,7 @@ sections:
     features:
       - title: The Best Feature of Your Services
         image: images/The Ultimate Guide to Video Marketing-3.webp
-        image_alt: App preview on a phone and tablet
+        image_alt: 'For Brands, Video content is preferred'
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
