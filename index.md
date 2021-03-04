@@ -28,10 +28,7 @@ sections:
       - title: 'Content is King, and Video is the Crown Jewel.'
         image: images/The Ultimate Guide to Video Marketing-3.webp
         image_alt: 'For Brands, Video content is preferred'
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: "It’s no secret -\_people prefer video for entertainment and information. Search engines favor video. Social media and email marketing ROI **skyrockets** with video.\n"
         actions:
           - label: Learn More
             url: /features
