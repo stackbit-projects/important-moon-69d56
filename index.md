@@ -25,7 +25,7 @@ sections:
     type: section_features
     background: white
     features:
-      - title: The Best Feature of Your Services
+      - title: 'Content is King, and Video is the Crown Jewel.'
         image: images/The Ultimate Guide to Video Marketing-3.webp
         image_alt: 'For Brands, Video content is preferred'
         content: >-
