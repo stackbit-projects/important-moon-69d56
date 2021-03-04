@@ -75,9 +75,10 @@ sections:
       - author: Naomi Westgard
         avatar: images/index.jpg
         avatar_alt: Eric Widget's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Fast Forward Stories is by far one of the best providers of content
+          that I have incorporated in the show. The value that the videos add is
+          tremendous and I thank you for that.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
