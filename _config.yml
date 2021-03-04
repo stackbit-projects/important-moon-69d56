@@ -7,7 +7,7 @@ collections:
 base_font: nunito-sans
 palette: green
 header:
-  logo_img: images/logo.svg
+  logo_img: images/FFS_Logo_Desky_500.png
   logo_img_alt: Logo
   has_nav: true
   nav_links:
