@@ -2,7 +2,8 @@
 title: Privacy Policy
 seo:
   title: Privacy Policy
-  description: This is the privacy policy page
+  description: |
+    Fast Forward Stories Privacy Policy
   extra:
     - name: 'og:type'
       value: website
