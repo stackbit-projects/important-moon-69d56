@@ -13,8 +13,9 @@ layout: page
 ## Lorem ipsum
 
 
-{% include accordion.html %}
 ---
+
+{% include accordion.html %}
 accordion: 
   - title: this is item 1
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
